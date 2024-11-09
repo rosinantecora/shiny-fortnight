@@ -1,3 +1,4 @@
+//Program #10: Price with Discount Calculator
 #include <iostream>
 using namespace std;
 
