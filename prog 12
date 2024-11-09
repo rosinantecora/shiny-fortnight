@@ -1,3 +1,4 @@
+//Program #12: Vote Eligibility Verifier
 #include <iostream>
 using namespace std;
 
